@@ -1,0 +1,43 @@
+.maincontented_availparty{
+	margin-top:5px;
+	padding:5px;
+	background:#FAD6DA;
+	min-height:440px;
+	
+}
+.maincontented_availparty img{
+	margin-top:15px;
+	
+}
+.title{margin-top:5px;
+margin-bottom:10px;}
+.tablecontedn{margin-top:20px;}
+.tablecontedn a{
+	text-decoration:none;
+	display:block;
+
+}
+.tablecontedn a h2{
+	padding:5px;
+	background:gray;
+	font-size:24px;
+	color:yellow;
+	width:130px;
+	height:30px;
+	text-align:center;
+	margin-top:16px;
+	margin-bottom:16px;
+	margin-left:810px;
+}
+.tablecontedn a h2:hover{
+	color:red;
+	background:white;
+}
+
+
+.table mytable{margin:20px 10px 10px 80px;width:900px;}
+table .mytable{}
+table .mytable tr td{text-align:center;}
+table .mytable tr th{padding:5px;text-align:center;background:black;color:#fff;}
+table.mytable tr:nth-child(2n+1){background:#C2B1B8;height:30px;}
+table.mytable tr:nth-child(2n){background:gray;height:30px;}

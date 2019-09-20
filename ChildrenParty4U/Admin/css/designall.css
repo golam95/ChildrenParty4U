@@ -1,0 +1,38 @@
+.tablecontedn{margin-top:20px;}
+.tablecontedn a{
+	text-decoration:none;
+	display:block;
+}
+.backhole{
+	width:100px;
+	height:50px;
+}
+
+.contact_delete form input[type='textarea']{
+	padding:25px;
+	width:300px;
+	margin-bottom:5px;
+	border:1px solid green;
+	height:120px;
+	
+	
+	
+}
+
+
+
+.backhole h2{
+ text-align:center;
+ 
+
+}
+.backhole a h2:hover{
+	color:red;
+}
+
+table .mytable{margin:20px 10px 10px 80px;width:900px;border-radius:5px;}
+table .mytable{border-radius:5px;}
+table .mytable tr td{text-align:center;}
+table .mytable tr th{padding:5px;text-align:center;background:black;color:#fff;}
+table.mytable tr:nth-child(2n+1){background:#FFF6DE;height:30px;}
+table.mytable tr:nth-child(2n){background:#C2B1B8;height:30px;}

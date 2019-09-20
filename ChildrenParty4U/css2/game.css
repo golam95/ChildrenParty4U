@@ -1,0 +1,141 @@
+*{margin:0;outline:0;padding:0}
+body{font-size:22px;font-family:arail;background:#DDE2E8;
+position:relative;
+
+}
+.template{
+	width:960px;
+	margin:0 auto;
+}
+.clear{
+	overflow:hidden;
+	
+}
+.headersection{
+	background:#6A3E4F;
+	padding:40px;
+}
+
+.subheadersection h1{
+	float:left;
+	font-size:40px;
+  Color:white;
+   font-weight:bold;
+   margin-top:5px;
+}
+.headersection p{
+	Color:#800000;
+	float:right;
+}
+.subheadersectionone ul{
+	margin:0;padding:0;list-style:none;
+}
+.subheadersectionone ul li{
+   display:block;
+	float:right;
+}
+.subheadersectionone ul li a{
+	
+   
+   margin-left:0px;
+   float:right;
+   padding:5px;
+	color:white;
+	display:block;
+	margin-bottom:20px;
+	text-decoration:none;
+	font-size:15px;
+	
+}
+.subheadersectionone ul li a:hover{
+	color:green;
+	
+	
+}
+.headersectionthree{}
+.headersectionthree img{
+	height:200px;
+	width:960px;
+	margin-bottom:0px;
+}
+
+.naviagation{background:#6A3E4F;color:white;}
+.naviagation ul{margin:0;padding:0;list-style:none;}
+.naviagation ul li{display:block;float:left;}
+.naviagation ul li a{
+border:2px solid green;
+background:#870606 none repeat scroll 0 0;
+color:#DDE2E8;
+display:block;
+font-size:20px;
+font-weight:bold;
+margin:5px;
+padding:5px 50px;
+text-decoration:none;
+border-radius:20px;
+   
+}
+.naviagation ul li a:hover{
+background:#2F2D2E;color:#fff;
+}
+#active{
+	background:#2F2D2E;color:#fff;
+}
+.tooplate_middle{}
+
+.maincontented{
+	min-height:430px;
+	background:#FAD6DA;
+	padding-top:60px;
+	margin-bottom:5px;
+}
+.maincontented label{
+  	padding:10px;
+	
+}
+.maincontented form input[type='text']{
+	width:210px;
+	height:18px;
+	padding:5px;
+	margin-bottom:20px;
+	
+}
+
+
+.maincontented form input[type='password']{
+	width:210px;
+	height:25px;
+	padding:5px;
+	margin-bottom:20px;
+	
+}
+.maincontented form button[type='submit']{
+	margin-left:95px;
+	width:120px;
+	height:25px;
+	margin-bottom:5px;
+}
+.maincontented form button[type='reset']{
+	
+	width:120px;
+	height:25px;
+	margin-bottom:20px;
+}
+.maincontented p{
+	font-size:20px;
+	margin-left:70px;
+}
+.footersection {
+	background:#1C1C1E;
+	padding:20px;
+	   Color:#60A109;
+	}
+
+.sidesocialicon{position:fixed;left:0;top:200px;width:60px;}
+.sidesocialicon img{
+	width:50px;
+	border-radius:80px;
+}
+.sidesocialicon img:hover{
+	background:red;
+}

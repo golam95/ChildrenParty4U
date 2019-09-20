@@ -1,0 +1,125 @@
+.maincontented1{
+	margin-top:5px;
+	margin-bottom:5px;
+  padding-top:30px;
+ background:#DFEDC0;
+}
+
+.maincontented1 form input[type='text']{
+	margin-left:120px;
+	width:230px;
+	height:25px;
+	padding:5px;
+	margin-bottom:20px;
+	}
+
+.maincontented1 form input[type='password']{
+	margin-left:88px;
+	width:230px;
+	height:25px;
+	padding:5px;
+	margin-bottom:20px;
+	}
+.maincontented1 form select{
+	margin-left:90px;
+	width:230px;
+	height:25px;
+	padding:5px;
+	margin-bottom:20px;
+	}
+	.maincontented1 form input[type='radio']{
+	   margin-left:80px;
+	   margin-bottom:20px;
+	}
+	.maincontented1 form button[type='submit']{
+	width:120px;
+	height:25px;
+	padding-left:5px;
+	margin-left:210px;
+	margin-bottom:20px;
+}
+.maincontented1 form button[type='reset']{
+	width:120px;
+	height:25px;
+	margin-bottom:20px;
+	
+	
+}
+.maincontented1 p{
+	   Color:#800000;
+	   font-weight:bold;
+		margin-left:100px;
+		margin-bottom:20px;
+
+}
+.maincontented2{
+	min-height:550px;
+	background:#60A109;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.tblone{
+	
+	font-size:17px;
+}
+.maincontented2 a{
+	font-size:16px;
+}
+ .tblone{width:100%;border:1px solid #fff;margin:20px 0}
+ .tblone td{padding:5px 10px;text-align:center;}
+ table.tblone tr:nth-child(2n+1){background:#fff;height:30px;}
+ table.tblone tr:nth-child(2n){background:#f1f1f1;height:30px;}
+ .maincontented3 form input [type='text']{
+	width:120px;
+	height:25px;
+	padding-left:5px;
+	margin-left:100px;
+	
+}
+.maincontented3{
+	min-height:430px;
+	background:#60A109;
+	padding-top:80px;
+	margin-top:5px;
+	margin-bottom:5px;
+	
+}
+.maincontented3 p{
+		padding-left:100px;
+		 Color:#800000;
+	   font-weight:bold;
+}
+
+.maincontented3 label{
+		padding:10px;
+}
+
+ .maincontented3 form input[type='text']{
+	width:230px;
+	height:25px;
+	padding:5px;
+	margin-bottom:20px;
+	
+	
+}
+.maincontented3 form input[type='password']{
+   width:230px;
+	height:25px;
+	padding:5px;
+	margin-bottom:70px;
+	
+	
+}
+.maincontented3 form button[type='submit']{
+	margin-left:165px;
+	width:120px;
+	height:25px;
+	
+}
+.maincontented3 form button[type='reset']{
+	width:120px;
+	height:25px;
+	margin-bottom:20px;
+	
+	
+}

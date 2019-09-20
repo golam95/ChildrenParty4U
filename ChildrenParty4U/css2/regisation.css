@@ -1,0 +1,171 @@
+.maincontented table{
+	border-radius:30px;
+}
+input[type='submit']{
+	padding:5px;
+	width:80px;
+	background:#B97F17;
+	color:white;
+	border-radius:5px;
+}
+
+.headersectionsimple{
+	background:#6A3E4F;
+	padding:7px;
+}
+
+.headersectionsimple h1{
+	float:left;
+	font-size:40px;
+  Color:#60A109;
+   font-weight:bold;
+   margin-top:5px;
+}
+.headersectionsimple p{
+	Color:#800000;
+	float:right;
+}
+.emergencysocial{background:#C2B1B8;}
+.emergency_left{
+   margin-top:5px;
+	
+}
+.emergency_left img{
+	margin-top:10px;
+	margin-bottom:10px;
+	float:left;
+	padding:5px;
+	border-radius:10px;
+	margin-right:30px;
+	
+}
+
+.emergency_left h2{
+	margin-left:10px;
+	padding:5px;
+	font-size:25px;
+	font-weight:bold;
+	padding-left:20px;
+	color:#703F54;
+}
+.emergency_left p a{
+	font-size:12px!important;
+	padding:10px!important;
+	background:#EBEBEB!important;
+	text-decoration:none;
+	margin-bottom:5px;
+	font-weight:bold;
+		color:#703F54;
+
+
+}
+
+
+.emergency_left h5{
+	padding:5px;
+		color:#703F54;
+	
+}
+
+.emergency_left h3{
+	padding:10px;
+		color:#703F54;
+	
+}
+.emergency_left a img{
+	width:25px;
+	margin-bottom:10px;
+	border-radius:0px !important;
+	
+}
+
+.related_post{background:#703F54;
+	   border-bottom:1px solid #D9858B;
+}
+.related_poststart{
+}
+
+.related_poststart ul{
+	margin:0;padding:0;list-style:none;
+}
+.related_poststart ul li{
+   display:block;
+	float:right;
+}
+.related_poststart ul li a{
+   padding:5px;
+	color:#60A109;
+	display:block;
+	margin-bottom:0px;
+	font-size:11px;
+	
+}
+.related_poststart ul li a img{
+		width:172px;
+		padding:5px;
+	
+}
+.related_poststart ul li a img:hover{
+	opacity:0.4;
+}
+
+.related_poststart ul li   h4{
+		width:172px;
+		padding:1px;
+		margin-left:5px;
+		background:#C2B1B8;
+		font-size:16px;
+		text-align:center;
+     border-bottom:2px solid black;		
+ 
+	
+	
+}
+.related_poststart ul li   h5{
+	width:80px;
+		font-size:15px;
+	background:#4C2434;
+	margin-bottom:26px;
+	
+}
+.related_poststart ul li   p{
+		width:172px;
+		padding:5px;
+		text-align:justify;
+		font-size:15px;
+	
+}
+.footersection{background:#6A3E4F;}
+
+.subfootersection{
+	text-align:center!important;
+	
+}
+.subfootersection h1{
+	font-size:30px;
+}
+.subfootersection p{
+	color:white;
+	
+}
+.imageall{
+	
+	text-align:center;
+}
+.subimage img{
+	width:300px;
+	padding:5px;
+	margin-top:0px;
+	border-radius:10px;
+	border-bottom:5px;
+	background:#6A3E4F;
+	
+}
+
+
+
+
+
+
+
+
